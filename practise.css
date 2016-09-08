@@ -1,0 +1,18 @@
+.box1{background-color: blue}
+.box2{background-color: blue}
+.box3{background-color: blue}
+.box4{background-color: blue}
+.box5{background-color: blue}
+.box6{background-color: blue}
+.box7{background-color: blue}
+.box8{background-color: blue}
+.box9{background-color: blue}
+.box10{background-color: blue}
+
+.box{
+    /*text color*/
+    color: white;
+    font-size: 100px;
+    text-align: center;
+    border-bottom: 2px solid black;
+}

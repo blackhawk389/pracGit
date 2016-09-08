@@ -1,0 +1,18 @@
+.flex-container{
+    flex-wrap: wrap;
+    display: flex;
+    
+}
+.image-div{
+    width: 100px;
+    height: 100px;
+    align-self: flex-start;
+}
+.image{
+    width: 100%;
+}
+.image-div2{
+    width: 100px;
+    height: 100px;
+    align-self: flex-end;
+}
